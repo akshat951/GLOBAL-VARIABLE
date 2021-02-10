@@ -1,0 +1,21 @@
+a = "BMW"
+
+b = "Audi"
+
+c = "Kia"
+
+d = "MG"
+def mycar(): 
+    print(" not available " + a +"   "  + b  +"   "  + c + "   " + d)
+mycar()    
+    
+    
+
+
+x = "showrooms"
+
+def myfunc():
+    print(" cars avilable in " +  x)
+    
+myfunc()
+    
